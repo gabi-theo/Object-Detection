@@ -2,7 +2,10 @@
 2 projects in 1 :). This repository contains a project that can move the mouse on the screen based on detection of a green-ball and another that helps a robot to search for the same ball and manipulate it.
 
 --- All the credits for creating the neuronal network using Tensorflow goes to EdjeElectronics (https://github.com/EdjeElectronics) ----
-
+--- In order to get the setup done for using this files please follow his instructions. All the files that I used can be found to this link:
+https://drive.google.com/drive/folders/1WDJoUwIfUMR8nTXbrSvj6A3ClLjOprNV ---
+--- This repository contains only the code for the 2 projects and video demonstrations ---
+--- You can find my frozen inference graph and all the pictures that I used for training this model to the link mentioned above ----
 1. First project is based on detecting a ball, getting its coordinates and moving the mouse based on that detection. The mouse is useless in this project :)
 The project is under path: "models\research\object_detection" and the filename is Object_detection_MOUSE.py
 
