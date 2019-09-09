@@ -15,4 +15,4 @@ The project is under path: "models\research\object_detection" and the filename i
 
 This is a program based on server-client where the robot is the client and the laptop is the server
 
-A video of how the projects work is included in the "models\research\object_detection" file
+A video of how the projects work is included in the "models\research\object_detection" file ("Robot controlled using a GUI" and "Robot searching for its ball" are the videos for the second project and "Mouse movement based on object detection" and "Playing a game with mouse movement" - videos for the first project)
